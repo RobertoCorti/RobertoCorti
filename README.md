@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertoCorti, I'm a Data Scientist @ Fastweb, Milan :it:
 - 👀 I’m interested in Machine Learning, Bayesian Statistics and Software Engineering!
-- 🌱 I’m currently learning NLP frameworks and how to build cool web apps with Streamlit
+- 🌱 I’m currently learning NLP and how to use the best frameworks such as HuggingFace 🤗.
 - 📫 How to reach me: roberto.corti@fastweb.it
 
 <!---
