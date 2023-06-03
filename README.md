@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RobertoCorti, I'm a Data Scientist @ Fastweb, Milan :it:
-- 👀 I’m interested in Machine Learning, Bayesian Statistics and Software Engineering!
-- 🌱 I’m currently learning NLP and how to use the best frameworks such as HuggingFace 🤗.
+- 👀 My main interests are Machine Learning, Bayesian Statistics and Software Engineering!
 - 📫 How to reach me: roberto.corti@fastweb.it
 
 <!---
