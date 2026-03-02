@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RobertoCorti, I'm a Data Scientist @ Klarna, Berlin 🇩🇪
 - 👀 My main interests are Machine Learning, Statistical Modeling and Software Engineering!
-- 📫 How to reach me: roberto.corti@klarna.com
 
 <!---
 RobertoCorti/RobertoCorti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
