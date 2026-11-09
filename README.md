@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobertoCorti, I'm a Data Scientist @ Klarna, Berlin 🇩🇪
+- 👋 Hi, I’m @RobertoCorti, I'm a Data Scientist @ Adyen, Amsterdam 🇳🇱
 - 👀 My main interests are Machine Learning, Statistical Modeling and Software Engineering!
 
 <!---
